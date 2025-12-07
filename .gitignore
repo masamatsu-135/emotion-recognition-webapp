@@ -208,4 +208,5 @@ __marimo__/
 
 
 /emotion-app/data/raw
-
+/emotion-app/outputs/cropped_face.jpg
+/emotion-app/tests/face.jpg
